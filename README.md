@@ -6,7 +6,7 @@ This project aims to predict the outcome of Dota 2 matches based on the heroes p
 
 ## Project Structure
 
-- **Data Collection**: We collect match data, including the heroes picked by both teams and the match outcome, using the [API][https://docs.opendota.com].
+- **Data Collection**: We collect match data, including the heroes picked by both teams and the match outcome, using the [OpenDota API](https://docs.opendota.com).
 - **Data Preprocessing**: The hero IDs for both teams are encoded using one-hot encoding to create a feature set for machine learning models.
 - **Model Training**: A machine learning model is trained on the preprocessed data to predict the match outcome.
 - **Prediction**: The trained model is used to predict the outcome of new matches based on the heroes picked.
