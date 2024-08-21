@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict the outcome of Dota 2 matches based on the heroes picked by both the Radiant and Dire teams. Using machine learning techniques, we train a model to determine the likelihood of either team winning given the heroes selected during the drafting phase.
+This project aims to predict the outcome of [Dota 2](https://www.dota2.com/home) matches based on the heroes picked by both the Radiant and Dire teams. Using machine learning techniques, we train a model to determine the likelihood of either team winning given the heroes selected during the drafting phase.
 
 ## Project Structure
 
